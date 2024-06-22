@@ -9,4 +9,4 @@ git init
 # 添加所有文件并提交
 git add .
 git commit -m "Initial commit with Ionic project files"
-git push origin main
+git push origin mainnpm install
